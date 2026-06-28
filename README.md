@@ -58,25 +58,6 @@ I enjoy working across the full data stack — from writing optimised SQL querie
 
 ---
 
-## 📌 Featured Projects
-
-> *(Coming soon — stay tuned for end-to-end data pipeline and analytics projects!)*
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dreadwing28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreadwing28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />

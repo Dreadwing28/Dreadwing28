@@ -9,52 +9,44 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a data-driven professional passionate about turning raw data into meaningful insights. I recently completed my **Master's in Data Analytics** from **Dublin Business School, Ireland**, and I'm actively looking for opportunities as a **Data Analyst** or **Analytics Engineer**.
+I enjoy working with data and using it to answer real business questions. After completing my Master’s in Data Analytics at Dublin Business School, I started focusing on roles where I can combine analytics, engineering, and reporting in one workflow. I like taking a dataset from its raw form, cleaning and structuring it, building the right data models, and then turning it into clear dashboards or reports that people can actually use.
 
-I enjoy working across the full data stack — from writing optimised SQL queries and building data pipelines to creating clear, impactful dashboards. I'm a fast learner who loves taking on challenging problems and building things from scratch.
+Most of my experience sits around SQL, data modelling, and BI tools, but I am also comfortable working with ETL and orchestration tools. I like breaking problems down into smaller steps, documenting what I am doing, and continuously improving how the data flows from source systems into final dashboards. I am actively building projects to showcase this end‑to‑end way of working.
 
 ---
 
 ## 🎯 What I'm Looking For
 
-- 💼 **Data Analyst** or **Analytics Engineer** roles in Ireland
-- 🤝 Open to collaborating on open-source data projects
-- 📚 Always keen to learn and grow with a driven team
+💼 Data Analyst or Analytics Engineer roles in Ireland  
+🤝 Chances to work on real datasets and contribute to analytics projects  
+📚 A team environment where I can keep learning and deepen my technical skills  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack and Skills
 
-**Languages & Query**
+**Business Intelligence and Visualisation**  
+Tableau · Power BI · SSRS · SSAS  
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Data Integration and ETL**  
+SSIS · Apache Airflow · dbt  
 
-**Data Engineering & Pipelines**
+**Databases and Querying**  
+SQL · SQL Server · PostgreSQL · MySQL · Snowflake  
 
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Programming and Scripting**  
+Python  
 
-**BI & Visualisation**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+I use these tools across the full analytics lifecycle, from pulling data out of source systems and transforming it, to building semantic models and dashboards that support decision making.
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔁 **Workflow Orchestration** with Apache Airflow
-- ❄️ **Cloud Data Warehousing** with Snowflake
-- 🤖 **Machine Learning** fundamentals
-- 🏗️ **Data modelling** with dbt
+🔁 Workflow orchestration patterns with Apache Airflow  
+❄️ Modern cloud warehousing using Snowflake  
+🤖 Core machine learning concepts and how to productionise simple models  
+🏗 Data modelling techniques for analytics engineering and BI  
 
 ---
 
@@ -66,5 +58,5 @@ I enjoy working across the full data stack — from writing optimised SQL querie
 ---
 
 <p align="center">
-  <i>"Data is the new oil — and I'm here to refine it." 🚀</i>
+  <i>"Data is the new oil, and I focus on refining it into useful insights." 🚀</i>
 </p>
